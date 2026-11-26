@@ -1,8 +1,21 @@
 # foodコマンド
 ![test](https://github.com/chiro-55/robosys2026/actions/workflows/test_food.yml/badge.svg)
 
-標準入力から読み込んだアルファベット1文字を頭文字とする食べ物の単語を表示する。
+アルファベットを入力すると、それに対応した食べ物の名前を出力する。
 
+##　実行
+アルファベット1文字を入力すると、それに対応する食べ物の名前が出力されます。
+
+-実行例
+  '$ echo a | ./food'
+ 実行結果
+  'apple'
+
+## ダウンロード
+ターミナルで以下のコマンドを実行してください。
+'git clone https://github.com/chiro-55/robosys2026.git'
+その後、ダウンロードしたディレクトリに移動してください。
+'cd robosys2026'
 
 ## 必要なソフトウェア
 - Python
