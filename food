@@ -59,4 +59,6 @@ for line in sys.stdin:
         print("yogurt")
     elif alp == "z":
         print("zucchini")
+    else:
+        sys.exit(1)
 
