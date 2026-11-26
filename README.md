@@ -34,3 +34,10 @@
 
 - このソフトウェアパッケージは、3条項BSDライセンスの下、再頒布および使用が許可されます。
 - © 2026 Chihiro Watanabe
+
+## 参考資料
+
+本プログラムとリポジトリの作成にあたり、以下の資料を参考にしました。
+
+- [ロボットシステム学2026](https://github.com/tarolab-cit/lectures/tree/main/robosys2026)
+- [マークダウン記法完全チートシート](https://qiita.com/masterpiecehack/items/990683b706b70b88b4c7)
