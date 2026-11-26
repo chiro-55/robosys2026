@@ -16,10 +16,10 @@
 ## ダウンロード
 
 ターミナルで以下のコマンドを実行してください。  
-`git clone https://github.com/chiro-55/robosys2026.git`
+`$ git clone https://github.com/chiro-55/robosys2026.git`
 
 その後、ダウンロードしたディレクトリに移動してください。  
-`cd robosys2026`  
+`$ cd robosys2026`  
 
 ## 必要なソフトウェア
 
