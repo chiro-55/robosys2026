@@ -9,17 +9,17 @@
 アルファベット1文字を入力すると、それに対応する食べ物の名前が出力されます。
 
 - 実行例  
-   '$ echo a | ./food'  
+   `$ echo a | ./food`  
   実行結果  
-   'apple'  
+   `apple`  
 
 ## ダウンロード
 
 ターミナルで以下のコマンドを実行してください。  
-'git clone https://github.com/chiro-55/robosys2026.git'
+`git clone https://github.com/chiro-55/robosys2026.git`
 
 その後、ダウンロードしたディレクトリに移動してください。  
-'cd robosys2026'  
+`cd robosys2026`  
 
 ## 必要なソフトウェア
 
