@@ -1,0 +1,62 @@
+#!/usr/bin/env python3
+# SPDX-FileCopyrightText: 2026 Chihiro Watanabe
+# SPDX-License-Identifier: BSD-3-Clause
+
+import sys
+
+for line in sys.stdin:
+    alp = line.strip()
+
+    if alp == "a":
+        print("apple")
+    elif alp == "b":
+        print("banana")
+    elif alp == "c":
+        print("cake")
+    elif alp == "d":
+        print("donut")
+    elif alp == "e":
+        print("egg")
+    elif alp == "f":
+        print("fish")
+    elif alp == "g":
+        print("grape")
+    elif alp == "h":
+        print("hamburger")
+    elif alp == "i":
+        print("icecream")
+    elif alp == "j":
+        print("jelly")
+    elif alp == "k":
+        print("kiwi")
+    elif alp == "l":
+        print("lemon")
+    elif alp == "m":
+        print("mango")
+    elif alp == "n":
+        print("nut")
+    elif alp == "o":
+        print("orange")
+    elif alp == "p":
+        print("pizza")
+    elif alp == "q":
+        print("quiche")
+    elif alp == "r":
+        print("rice")
+    elif alp == "s":
+        print("strawberry")
+    elif alp == "t":
+        print("tomato")
+    elif alp == "u":
+        print("udon")
+    elif alp == "v":
+        print("vanilla")
+    elif alp == "w":
+        print("waffle")
+    elif alp == "x":
+        print("xigua")
+    elif alp == "y":
+        print("yogurt")
+    elif alp == "z":
+        print("zucchini")
+
